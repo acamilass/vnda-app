@@ -4,6 +4,6 @@ $(document).ready(function(){
     });
 
     $(".toolbar").mouseover(function(){
-        $(this).css("text-transform", "lowercase");
+        $(this).css("color", "red");
     });
 })
