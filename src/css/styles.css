@@ -1,20 +1,19 @@
 body {
-  font-family: 'Oswald', sans-serif;
-  /* Change the link color to #111 (black) on hover */ }
-  body ul {
+  font-family: 'Oswald', sans-serif; }
+  body .toolbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden; }
-  body li {
+  body .toolbar-2 {
     float: left; }
-  body li a {
+  body .toolbar-2 a {
     display: block;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     color: #000000; }
-  body li a:hover {
+  body .toolbar-2 a:hover {
     color: #fb377f; }
   body .flex-content {
     display: flex;
