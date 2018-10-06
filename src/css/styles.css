@@ -21,7 +21,7 @@ body {
   body .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgba(249, 249, 249, 0.5);
+    background-color: rgba(249, 249, 249, 0.8);
     min-width: 160px;
     z-index: 1; }
   body .dropdown-content a {
